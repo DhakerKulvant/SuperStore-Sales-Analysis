@@ -85,8 +85,9 @@ SuperStore-Sales-Analysis/
 ---
 
 ## 👤 Author
-- **Kulvant Dhaker**  
-- GitHub: https://github.com/DhakerKulvant  
-- LinkedIn: www.linkedin.com/in/dhakerkulvant01  
+
+- **Kulvant Dhaker**
+- [GitHub](https://github.com/DhakerKulvant)
+- [LinkedIn](https://www.linkedin.com/in/dhakerkulvant01)
 
 ---
