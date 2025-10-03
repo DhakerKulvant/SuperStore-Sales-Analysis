@@ -1,4 +1,31 @@
 # 📊 SuperStore Sales Analysis & Forecasting (Power BI Project)
+---
+
+## 📊 Dashboard Screenshots
+
+### Sales Dashboard
+![Dashboard](images/superStoreSalesAnalysis.png)
+
+### Sales Forecasting (15 Days)
+![Forecasting](images/super_store_sales_forecasting.png)
+
+---
+
+## 📋 Table of Contents
+- [Objective](#-Objective)  
+- [Project Description](#-Project-Description)  
+- [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)  
+- [File Structure](#-File-Structure)  
+- [Technologies Used](#-Tools-&-Technologies)  
+- [Dataset Information](#-dataset-information)  
+- [Data Cleaning Process](#-data-cleaning-process)  
+- [Dashboard Features](#-dashboard-features)  
+- [Key Insights](#-Sample-Insights)  
+- [Getting Started](#-getting-started)  
+- [Conclusion & Recommendations](#-Conclusion-&-Recommendations)  
+- [Author](#-Author)  
+
+---
 
 ## 📌 Objective
 To contribute to the success of the SuperStore business by utilizing **data analysis** and **time series forecasting** techniques.  
@@ -28,6 +55,12 @@ This project was developed using **Power BI**, with the following key components
    - Suggested improvements for sales, operations, and customer satisfaction.
 
 ---
+## key performance indicators kpis
+|Sales|   |
+|Orders|  |
+|Profit|   |
+|ship Days|    |
+---
 
 ## 📂 File Structure
 
@@ -44,17 +77,6 @@ SuperStore-Sales-Analysis/
 │ └── super_store_sales_forecasting.png # Forecasting screenshot
 │
 └── README.md
-
-
----
-
-## 📊 Dashboard Screenshots
-
-### Sales Dashboard
-![Dashboard](images/superStoreSalesAnalysis.png)
-
-### Sales Forecasting (15 Days)
-![Forecasting](images/super_store_sales_forecasting.png)
 
 ---
 
