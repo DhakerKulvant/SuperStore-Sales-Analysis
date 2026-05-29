@@ -55,7 +55,7 @@ This project was developed using **Power BI**, with the following key components
    - Suggested improvements for sales, operations, and customer satisfaction.
 
 ---
-## key performance indicators kpis
+## key performance indicators kpis.
 |Sales|   |
 |Orders|  |
 |Profit|   |
