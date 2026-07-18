@@ -93,7 +93,7 @@ SuperStore-Sales-Analysis/
 - Focus on **Consumer Segment** since it generates the highest sales.  
 - Encourage **online payments** by offering incentives to reduce COD dependency.  
 - Increase **marketing efforts in East & Central regions** to balance sales distribution.  
-- Improve **shipping efficiency** (reduce days for standard delivery).  
+- Improve **shipping efficiency** (reduce days for standard delivery)..
 - Stock more **Office Supplies & Technology products**, as they drive maximum revenue.  
 - Use **forecasting insights** to prepare inventory and staffing for upcoming demand spikes.  
 
